@@ -1,16 +1,16 @@
-### Hi there 👋
+### Salve, bom dia/boa tarde/boa noite! 👋
+#### Yo, good morning/good afternoon/good night! 👋
 
-<!--
-**mtdecarvalho/mtdecarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estagiando na Orange Business Service no time de CSO (Costumer Service Operations).
 
-Here are some ideas to get you started:
+Sonho em ser developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades | Skills 
+
+__👉    C/C++ -> Conhecimento Intermediário    👈__
+
+__👉    Java -> Conhecimento Iniciante     👈__
+
+__👉  JavaScript -> Conhecimento Iniciante 👈__
+
+__👉   Python -> Conhecimento Iniciante    👈__
