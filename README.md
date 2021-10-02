@@ -1,16 +1,21 @@
 ### Salve, bom dia/boa tarde/boa noite! 👋
 #### Yo, good morning/good afternoon/good night! 👋
 
-Atualmente estagiando na Orange Business Service no time de CSO (Costumer Service Operations).
+Atualmente trabalhando como estagiário na 🍊 Orange Business Service 🍊 no time de CSO (Costumer Service Operations).
 
 Sonho em ser developer.
 
-#### Habilidades | Skills 
+### Habilidades | Skills 
 
-__👉    C/C++ -> Conhecimento Intermediário    👈__
+__👉    C/C++ -> Intermediário | Intermediary 👈__
 
-__👉    Java -> Conhecimento Iniciante     👈__
+__👉    Java -> Iniciante | Beginner 👈__
 
-__👉  JavaScript -> Conhecimento Iniciante 👈__
+__👉  JavaScript -> Iniciante | Beginner 👈__
 
-__👉   Python -> Conhecimento Iniciante    👈__
+__👉   Python -> Iniciante | Beginner 👈__
+
+### Experiência Profissional | Professional Experience
+
+* **2021 - Atualmente ->**  🍊 Orange Business Service 🍊 
+  * Estagiário no time de CSO (Costumer Service Operations)
