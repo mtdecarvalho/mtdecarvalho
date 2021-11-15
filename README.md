@@ -18,3 +18,5 @@
 
   <img align="right" height="140" width="140" src="https://i.imgur.com/pMcN8Cu.png"/>
 </div>
+                                                                                   
+![Snake animation](https://github.com/mtdecarvalho/mtdecarvalho/blob/output/github-contribution-grid-snake.svg)
