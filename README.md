@@ -16,5 +16,5 @@
   <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
   <img align="center" alt="linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
 
-  <img align="right" height="170" width="170" src="https://i.imgur.com/pMcN8Cu.png"/>
+  <img align="right" height="140" width="140" src="https://i.imgur.com/pMcN8Cu.png"/>
 </div>
