@@ -1,5 +1,12 @@
 ## Salve, eu sou Matheus de Carvalho, e estou estudando pra ser dev!
 
+<a href="https://github.com/mtdecarvalho/github-readme-stats">
+  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=mtdecarvalho&count_private=true&show_icons=true&theme=merko&hide_border=true" />
+</a>
+<a href=https://github.com/mtdecarvalho/github-readme-stats">
+  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=merko&hide_border=true" />
+</a>
+
 <div style="display: inline_block" ><br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
   <img align="center" alt="cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
