@@ -1,10 +1,10 @@
 ## Salve, eu sou Matheus de Carvalho, e estou estudando pra ser dev!
 
 <a href="https://github.com/mtdecarvalho/github-readme-stats">
-  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=mtdecarvalho&count_private=true&show_icons=true&theme=merko&hide_border=true" />
+  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=mtdecarvalho&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 <a href=https://github.com/mtdecarvalho/github-readme-stats">
-  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=merko&hide_border=true" />
+  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
 </a>
 
 <div style="display: inline_block" ><br>
