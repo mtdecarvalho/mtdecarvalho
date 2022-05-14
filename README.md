@@ -7,16 +7,27 @@
   <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
 </a>
 
-<div style="display: inline_block" ><br>
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
-  <img align="center" alt="cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-  <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
-  <img align="center" alt="js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-  <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-  <img align="center" alt="linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+```python
+class Matheus:
+    
+    def __init__(self):
+        self.name = "Matheus de Carvalho"
+        self.idade = 21
+        self.ocupacao = "Estudante"
+        self.linguagens = {
+            'Python': 'Intermediário',
+            'Java': 'Intermediário',
+            'C#': 'Iniciante',
+            'C/C++': 'Intermediário',
+            'Javascript': 'Iniciante'
+        }
 
-  <img align="right" height="140" width="140" src="https://i.imgur.com/pMcN8Cu.png"/>
-</div>
+    def ola(self):
+        print('Olá, sou Matheus de Carvalho e seja bem vind@ ao meu perfil!')
+
+
+eu = Matheus()
+eu.ola()
+```
                                                                                    
 ![Snake animation](https://github.com/mtdecarvalho/mtdecarvalho/blob/output/github-contribution-grid-snake.svg)
