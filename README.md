@@ -11,9 +11,10 @@
 class Matheus:
     
     def __init__(self):
-        self.name = "Matheus de Carvalho"
+        self.name = 'Matheus de Carvalho'
         self.idade = 21
-        self.ocupacao = "Estudante"
+        self.pronomes = ['Ele', 'Dele']
+        self.ocupacao = 'Estudante'
         self.linguagens = {
             'Python': 'Intermediário',
             'Java': 'Intermediário',
