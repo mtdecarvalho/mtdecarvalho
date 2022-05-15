@@ -1,11 +1,6 @@
-## Salve, eu sou Matheus de Carvalho, e estou estudando pra ser dev!
+## Olá, eu sou Matheus de Carvalho, e estou estudando pra ser dev!
 
-<a href="https://github.com/mtdecarvalho/github-readme-stats">
-  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=mtdecarvalho&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
-</a>
-<a href=https://github.com/mtdecarvalho/github-readme-stats">
-  <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
-</a>
+Um pouquinho sobre mim...
 
 ```python
 class Matheus:
@@ -30,5 +25,17 @@ class Matheus:
 eu = Matheus()
 eu.ola()
 ```
+
+<div>
+  <a href="https://github.com/mtdecarvalho/github-readme-stats">
+    <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=mtdecarvalho&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
+  </a>
+  <img align="right" height="350" width="350" src="https://i.imgur.com/jvHKGs4.png"/>
+  <a href=https://github.com/mtdecarvalho/github-readme-stats">
+    <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+
                                                                                    
 ![Snake animation](https://github.com/mtdecarvalho/mtdecarvalho/blob/output/github-contribution-grid-snake.svg)
