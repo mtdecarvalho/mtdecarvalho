@@ -30,7 +30,7 @@ eu.ola()
   <a href="https://github.com/mtdecarvalho/github-readme-stats">
     <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api?username=mtdecarvalho&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
   </a>
-  <img align="right" height="350" width="350" src="https://i.imgur.com/jvHKGs4.png"/>
+  <img align="right" height="350" width="auto" src="https://i.imgur.com/geuSrbe.png"/>
   <a href=https://github.com/mtdecarvalho/github-readme-stats">
     <img align="center" height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdecarvalho&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
   </a>
