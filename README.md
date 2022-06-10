@@ -13,7 +13,7 @@ class Matheus:
         self.linguagens = {
             'Python': 'Intermediário',
             'Java': 'Intermediário',
-            'C#': 'Iniciante',
+            'C#': 'Intermediário',
             'C/C++': 'Intermediário',
             'Javascript': 'Iniciante'
         }
