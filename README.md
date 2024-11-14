@@ -1,16 +1,18 @@
-## Hi there 👋
+## Welcome! 👋
 
-<!--
-**mtdecarvalho/mtdecarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+package humanity;
 
-Here are some ideas to get you started:
+public class Matheus {
+	private String name = "Matheus de Carvalho";
+	private int idade = 24;
+	private String[] pronouns = { "He", "Him" };
+	private String[] technologies = { "Java", "Python", "JavaScript", "PostgreSQL", "MySQL" };
+	private String myGoal = "I'm looking for the opportunity to become a Junior Java developer!";
+	private String myContact = "Feel free to reach me on LinkedIn, I'm always looking to connect!";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	public Matheus() {
+		System.out.println("Welcome everyone! Always a pleasure to have you visit my profile!");
+	}
+}
+```
